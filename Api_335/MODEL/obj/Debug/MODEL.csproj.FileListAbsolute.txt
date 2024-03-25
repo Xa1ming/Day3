@@ -1,0 +1,6 @@
+D:\桌面\Vue_tow\Day3\Api_335\MODEL\bin\Debug\MODEL.dll
+D:\桌面\Vue_tow\Day3\Api_335\MODEL\bin\Debug\MODEL.pdb
+D:\桌面\Vue_tow\Day3\Api_335\MODEL\obj\Debug\MODEL.csproj.AssemblyReference.cache
+D:\桌面\Vue_tow\Day3\Api_335\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+D:\桌面\Vue_tow\Day3\Api_335\MODEL\obj\Debug\MODEL.dll
+D:\桌面\Vue_tow\Day3\Api_335\MODEL\obj\Debug\MODEL.pdb

@@ -1,0 +1,16 @@
+D:\桌面\Vue_tow\Day3\Api_335\DAL\bin\Debug\DAL.dll
+D:\桌面\Vue_tow\Day3\Api_335\DAL\bin\Debug\DAL.pdb
+D:\桌面\Vue_tow\Day3\Api_335\DAL\bin\Debug\MODEL.dll
+D:\桌面\Vue_tow\Day3\Api_335\DAL\bin\Debug\MODEL.pdb
+D:\桌面\Vue_tow\Day3\Api_335\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\桌面\Vue_tow\Day3\Api_335\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\桌面\Vue_tow\Day3\Api_335\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\桌面\Vue_tow\Day3\Api_335\DAL\obj\Debug\DAL.dll
+D:\桌面\Vue_tow\Day3\Api_335\DAL\obj\Debug\DAL.pdb
+D:\桌面\Vue_tow\Day3\Api_335\DAL\bin\Debug\DAL.dll.config
+D:\桌面\Vue_tow\Day3\Api_335\DAL\bin\Debug\EntityFramework.dll
+D:\桌面\Vue_tow\Day3\Api_335\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\桌面\Vue_tow\Day3\Api_335\DAL\bin\Debug\EntityFramework.xml
+D:\桌面\Vue_tow\Day3\Api_335\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\桌面\Vue_tow\Day3\Api_335\DAL\obj\Debug\DAL.Migrations.db.resources
+D:\桌面\Vue_tow\Day3\Api_335\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

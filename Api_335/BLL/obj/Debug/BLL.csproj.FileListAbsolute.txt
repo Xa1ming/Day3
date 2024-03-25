@@ -1,0 +1,11 @@
+D:\桌面\Vue_tow\Day3\Api_335\BLL\bin\Debug\BLL.dll
+D:\桌面\Vue_tow\Day3\Api_335\BLL\bin\Debug\BLL.pdb
+D:\桌面\Vue_tow\Day3\Api_335\BLL\bin\Debug\DAL.dll
+D:\桌面\Vue_tow\Day3\Api_335\BLL\bin\Debug\MODEL.dll
+D:\桌面\Vue_tow\Day3\Api_335\BLL\bin\Debug\DAL.pdb
+D:\桌面\Vue_tow\Day3\Api_335\BLL\bin\Debug\MODEL.pdb
+D:\桌面\Vue_tow\Day3\Api_335\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\桌面\Vue_tow\Day3\Api_335\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\桌面\Vue_tow\Day3\Api_335\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\桌面\Vue_tow\Day3\Api_335\BLL\obj\Debug\BLL.dll
+D:\桌面\Vue_tow\Day3\Api_335\BLL\obj\Debug\BLL.pdb
